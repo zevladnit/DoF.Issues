@@ -36,5 +36,5 @@ GTK#
 ```
 *   - RedStone 1 
 **  - RedStone 2
-*** - Windows 8.1 is not supported below
+*** - not supported below Windows 8.1
 ```
