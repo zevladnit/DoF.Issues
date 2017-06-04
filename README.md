@@ -6,6 +6,7 @@ The current repository is the mirror for Questions\Reports\Bugs.
 
 # System requirements [Minimal]:
 ```CSharp
+Windows 8.1
 Intel Core I5 3Ghz
 2Gb VRAM, 900Mhz GPU
 3Gb RAM 9xxMhz
@@ -13,6 +14,7 @@ Intel Core I5 3Ghz
 ```
 # System requirements [Maximal]:
 ```CSharp
+Windows 10 (Anniversary Update*, Creators Update**)
 Intel Core I9 4Ghz
 4Gb VRAM, 1200Mhz GPU
 12Gb RAM 1333Mhz
@@ -21,7 +23,14 @@ Intel Core I9 4Ghz
 
 # Also, the necessary packages:
 ```
-VSCPP13-15
-.NET 3.5, 4.0, 4.5, 4.6, 4.7
+VSCPP13-15-17
+.NET 3.5, 4.0, 4.5, 4.6, 4.7***
 GTK#
+```
+
+
+```
+*   - RedStone 1 
+**  - RedStone 2
+*** - Windows 8.1 is not supported below
 ```
